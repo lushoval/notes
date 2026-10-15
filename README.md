@@ -22,4 +22,4 @@
   - 9am [Math for Game Development](https://learn.georgebrown.ca/d2l/home/508277)
   - 1pm [Fundamentals of Computing Logic (LAB)](https://learn.georgebrown.ca/d2l/home/514711)
 - Friday
-  -1pm [Introduction to Data Management (LAB)](https://learn.georgebrown.ca/d2l/home/513886)
+  - 1pm [Introduction to Data Management (LAB)](https://learn.georgebrown.ca/d2l/home/513886)
